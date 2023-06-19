@@ -9,3 +9,6 @@ https://drive.google.com/file/d/1kw6dMEen2SMqlzEgjYIGrZeQ_DFvbyWf/view
 
 #### Resumo apresentado na 8ª Jornada Científica, Tecnológica e Cultural (PEnsE), 2022
 https://web.farroupilha.ifrs.edu.br/sif/eventos/detalhe_trabalho/848/?parametros_list=busca%3DYas%26modalidade%3D0 
+
+#### Artigo apresentado na 25ª Escola Sul de Microeletrônica (EMicro 2023) e 38º Simpósio Sul de Microeletrônica, 2023 UFRGS 
+https://wp.ufpel.edu.br/emicrosim2023/artigos-sessoes/ 
