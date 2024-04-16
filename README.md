@@ -25,7 +25,13 @@ https://web.farroupilha.ifrs.edu.br/sif/eventos/detalhe_trabalho/974/?parametros
 
 ## :date: 2024
 ### :small_blue_diamond: Artigo apresentado no 2024 IEEE Latin America Symposium on Circuits and Systems (LASCAS), Punta del Este - Uruguai
----
+
 
 ### :small_blue_diamond: Artigo apresentado na 26ª Escola Sul de Microeletrônica (EMicro 2024) e 39º Simpósio Sul de Microeletrônica, 2024 Unipampa - Bagé
 https://wp.ufpel.edu.br/emicrosim2024/programacao/
+
+---
+
+:camera::camera::camera:
+
+![20240228_115425](https://github.com/Yasmin-Camargo/artigos-vitech/assets/88253809/98c9c81e-f88b-4fd5-aa8a-62124d428095)
