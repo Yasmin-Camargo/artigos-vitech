@@ -10,6 +10,9 @@ https://ieeexplore.ieee.org/abstract/document/10506177
 ### :small_blue_diamond: Artigo apresentado na 26ª Escola Sul de Microeletrônica (EMicro 2024) e 39º Simpósio Sul de Microeletrônica, 2024 Unipampa - Bagé
 https://wp.ufpel.edu.br/emicrosim2024/programacao/
 
+### :small_blue_diamond: Resumo apresentado no XXXII Congresso de Iniciação Científica (CIC), 2024 UFPel
+https://cti.ufpel.edu.br/siepe/arquivos/2024/CE_02150.pdf 
+
 ## :date: 2023
 ### :small_blue_diamond: Artigo apresentado na 25ª Escola Sul de Microeletrônica (EMicro 2023) e 38º Simpósio Sul de Microeletrônica, 2023 UFRGS - Porto Alegre
 https://wp.ufpel.edu.br/emicrosim2023/artigos-sessoes/ 
